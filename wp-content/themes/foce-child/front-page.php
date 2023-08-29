@@ -7,7 +7,7 @@ get_header();
     <section id="banner" class="banner fadeInDown">
         <div class="banner__background fallbackImage">
             <video autoplay muted loop class="banner__video">
-                <source src="<?php echo get_theme_file_uri() . '/assets/media/Studio-Koukaki-vidéo-header-sans-son.mp4'; ?>" type="video/mp4">
+                <source src="<?php echo get_theme_file_uri() . '/assets/media/Studio-Koukaki-video-header-sans-son.mp4'; ?>" type="video/mp4">
             </video>
         </div>
         <div class="banner__logo">
