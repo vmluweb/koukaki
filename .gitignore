@@ -36,6 +36,13 @@ wp-config.php
 # htaccess
 /.htaccess
 
+# Archives
+ac5a36-adminer.php
+archive.tar.gz
+
+# sql
+dump.sql
+
 # All plugins
 #
 # Note: If you wish to whitelist plugins,
